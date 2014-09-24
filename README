@@ -1,6 +1,7 @@
 aaaaayyyyyyyyyyyssasdfasdfasdf
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 
 =======
@@ -8,3 +9,6 @@ hello everyone
 >>>>>>> FETCH_HEAD
 
 HAY
+=======
+hello everyone
+>>>>>>> FETCH_HEAD
